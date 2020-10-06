@@ -1,0 +1,11 @@
+F:\CIS 317\BooksExamples\BooksExamples\bin\Debug\Books.mdf
+F:\CIS 317\BooksExamples\BooksExamples\bin\Debug\Books_log.ldf
+F:\CIS 317\BooksExamples\BooksExamples\bin\Debug\BooksExamples.dll.config
+F:\CIS 317\BooksExamples\BooksExamples\bin\Debug\BooksExamples.dll
+F:\CIS 317\BooksExamples\BooksExamples\bin\Debug\BooksExamples.pdb
+F:\CIS 317\BooksExamples\BooksExamples\bin\Debug\EntityFramework.dll
+F:\CIS 317\BooksExamples\BooksExamples\bin\Debug\EntityFramework.SqlServer.dll
+F:\CIS 317\BooksExamples\BooksExamples\bin\Debug\EntityFramework.xml
+F:\CIS 317\BooksExamples\BooksExamples\bin\Debug\EntityFramework.SqlServer.xml
+F:\CIS 317\BooksExamples\BooksExamples\obj\Debug\BooksExamples.dll
+F:\CIS 317\BooksExamples\BooksExamples\obj\Debug\BooksExamples.pdb
