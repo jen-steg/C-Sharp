@@ -1,0 +1,29 @@
+C:\Users\David\source\repos\FileRead\FileRead\bin\Debug\FileRead.exe.config
+C:\Users\David\source\repos\FileRead\FileRead\bin\Debug\FileRead.exe
+C:\Users\David\source\repos\FileRead\FileRead\bin\Debug\FileRead.pdb
+C:\Users\David\source\repos\FileRead\FileRead\obj\Debug\FileRead.csprojAssemblyReference.cache
+C:\Users\David\source\repos\FileRead\FileRead\obj\Debug\FileRead.FileTestForm.resources
+C:\Users\David\source\repos\FileRead\FileRead\obj\Debug\FileRead.Properties.Resources.resources
+C:\Users\David\source\repos\FileRead\FileRead\obj\Debug\FileRead.csproj.GenerateResource.cache
+C:\Users\David\source\repos\FileRead\FileRead\obj\Debug\FileRead.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\FileRead\FileRead\obj\Debug\FileRead.exe
+C:\Users\David\source\repos\FileRead\FileRead\obj\Debug\FileRead.pdb
+C:\Users\David\Documents\CIS317 CSharp\Unit 3\U3GP1 FileReadUpdatedStarting\FileRead\FileRead\bin\Debug\FileRead.exe.config
+C:\Users\David\Documents\CIS317 CSharp\Unit 3\U3GP1 FileReadUpdatedStarting\FileRead\FileRead\bin\Debug\FileRead.exe
+C:\Users\David\Documents\CIS317 CSharp\Unit 3\U3GP1 FileReadUpdatedStarting\FileRead\FileRead\bin\Debug\FileRead.pdb
+C:\Users\David\Documents\CIS317 CSharp\Unit 3\U3GP1 FileReadUpdatedStarting\FileRead\FileRead\obj\Debug\FileRead.csprojAssemblyReference.cache
+C:\Users\David\Documents\CIS317 CSharp\Unit 3\U3GP1 FileReadUpdatedStarting\FileRead\FileRead\obj\Debug\FileTest.FileTestForm.resources
+C:\Users\David\Documents\CIS317 CSharp\Unit 3\U3GP1 FileReadUpdatedStarting\FileRead\FileRead\obj\Debug\FileRead.Properties.Resources.resources
+C:\Users\David\Documents\CIS317 CSharp\Unit 3\U3GP1 FileReadUpdatedStarting\FileRead\FileRead\obj\Debug\FileRead.csproj.GenerateResource.cache
+C:\Users\David\Documents\CIS317 CSharp\Unit 3\U3GP1 FileReadUpdatedStarting\FileRead\FileRead\obj\Debug\FileRead.csproj.CoreCompileInputs.cache
+C:\Users\David\Documents\CIS317 CSharp\Unit 3\U3GP1 FileReadUpdatedStarting\FileRead\FileRead\obj\Debug\FileRead.exe
+C:\Users\David\Documents\CIS317 CSharp\Unit 3\U3GP1 FileReadUpdatedStarting\FileRead\FileRead\obj\Debug\FileRead.pdb
+C:\Users\jenns\Downloads\FileTest\FileRead\FileRead\bin\Debug\FileRead.exe.config
+C:\Users\jenns\Downloads\FileTest\FileRead\FileRead\obj\Debug\FileRead.exe
+C:\Users\jenns\Downloads\FileTest\FileRead\FileRead\obj\Debug\FileRead.pdb
+C:\Users\jenns\Downloads\FileTest\FileRead\FileRead\obj\Debug\FileRead.csprojResolveAssemblyReference.cache
+C:\Users\jenns\Downloads\FileTest\FileRead\FileRead\obj\Debug\FileTest.FileTestForm.resources
+C:\Users\jenns\Downloads\FileTest\FileRead\FileRead\obj\Debug\FileRead.Properties.Resources.resources
+C:\Users\jenns\Downloads\FileTest\FileRead\FileRead\obj\Debug\FileRead.csproj.GenerateResource.Cache
+C:\Users\jenns\Downloads\FileTest\FileRead\FileRead\bin\Debug\FileRead.exe
+C:\Users\jenns\Downloads\FileTest\FileRead\FileRead\bin\Debug\FileRead.pdb
